@@ -1,3 +1,6 @@
+# ---- Windows 下载标记（从 Windows 复制/下载文件时产生，属系统元数据）----
+*:Zone.Identifier
+
 # ---- 编辑器 / IDE ----
 .vscode/
 .idea/
